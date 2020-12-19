@@ -22,7 +22,7 @@ us.info.lgsmartad.com
 lgad.cjpowercast.com
 edgesuite.net
 
-#LG TV Additional domains:
+# LG TV Additional domains:
 ad.lgappstv.com
 smartclip.com
 smartclip.net
